@@ -1,6 +1,6 @@
-﻿#Chapter 1
+﻿# Chapter 1
 
-The trip to nainital
+# The trip to nainital
 
 
 
@@ -118,18 +118,18 @@ To be continued …
 
 
 
-#An introduction of
+# An introduction of
 
-#upcoming characters
+# upcoming characters
 
 
-##Triton – the brother in arms
+## Triton – the brother in arms
 
 
 Triton is without a doubt the best guy I have ever met. If someone is being worthy of called my brother he is Triton. I still remember that year as if it was last year only, wait a second it really was the last year, year 2014, his father had migrated to Rudrapur, Uttarakhand and he was transferred to the same school. We spent the entire year together as best buddies. During the last 6 months of the year he even lived in my house. We together became famous as “THE TWIN BRAWLERS”. Counter Strike, Subterfudge , tag team taken, Contra, multi-player RPG’s any game you name it we were together pros at it. Our way of collaboration was what made us famous. No-one used to fight without the other. We each looked after each other’s back. Even in the real life the collaboration could be easily seen. For a matter of fact he was left handed and I was right. That made us even more compatible with each other. Meeting him was one of the best moments in my life but this year during January his father was again transferred this time off shore to Europe. But still we remain famous till date in the online multiplayer gaming world.
 
 
-##alice – the perfect girl
+## alice – the perfect girl
 
 
 Alice is a childhood friend. We grew up in the same streets playing together. But she was way ahead in most of the things. Her looks were just amazing those brown eyes, those waving hairs, that pretty face. But don’t let that innocent face misguide you. Jiujutsu, taekwondo, karate, boxing, weapon mastery anything you name it she knew it. Other than her strength her knowledge was also far above average. She is the reason why my marks never mattered. Anyways she was a great friend, helped me a lot in studies as well as martial arts and made me a bit more social than I were before. The only thing where I could defeat her was gaming
@@ -142,22 +142,23 @@ Alice is a childhood friend. We grew up in the same streets playing together. Bu
 Mark’s family has been serving my family since generations. But don’t get anything wrong with the word butler, this isn’t any kind of slavery or paid labor. He is more of a family than anyone else. Also by butler don’t get the feeling that he does the house-hold work, his work is to protect the family members, a bit like the private assassins. Don’t go by his looks and week body. His strength level is way beyond average. Jiujutsu, taekwondo, karate or any other form of martial arts you name it he knows it. He has even got the close combat training from US and has also gained ability to utilize his adrenaline to maximum extent granting him the super human strength. He is the best protector you could ever hope to get.
 
 
-##Jimmy – the technokid
+## Jimmy – the technokid
 
 
 Next comes our tech expert Jimmy. You remember the help which I got to open up the gate earlier it was all done by Jimmy. I just opened up a route for him to access the gate’s algorithms and he just broke it open. Any technical help you want you can count on him. All kind of technical stuffs and algorithms are stored in his brain. Despite that his physical strength is below average, but with skills like that who would want muscles? Anyways even school teacher had employed him in the network department so that he doesn’t hack it down, nice thinking right if you can’t defeat someone them get him to work with you.
 
 
-##Shaun – the childhood buddy
+## Shaun – the childhood buddy
 
 
 Shaun and I have been friends since the time I learnt how to spell friends. His father Ricky has been working along with my father as well, in fact Mr. Ricky was the second in command at the company and guess now he will be the in-charge. Anyways Shaun and me were best friends we were always seen together weather in class or outside class. Hence at school even if one was caught doing mischief, other one was definitely to be found somewhere around. Shaun was also a great person good in studies, great gamer and an amazing sword fighter. He was more of a solo player though in most of the games. I still remember the games we used to play our taken league is still at 1672-1670 with Shaun in the lead. Also in various other games the league is continuing. The score card is at a sacred online location protected by Jimmy, and could be accessed only when all three of us come together virtually.
 
 
-##Jin Bamba – the father
+## Jin Bamba – the father
 
 
 Guess no point in telling about him, everyone knows him. A genius, a perfectionist, an amazing worker, a leader and literally the golden worker. He is what everyone wishes to be. His work on Artificial Intelligence, network security and Virtual gaming is what made him this famous. His empire is far spread across the entire globe. Though his dream of a completely virtual world is still under development.
+ 
  
 
 
@@ -180,10 +181,8 @@ Guess no point in telling about him, everyone knows him. A genius, a perfectioni
 
 
 
-
-#Chapter 2
-
-#The Aftermath
+# Chapter 2
+# The Aftermath
 
 
 
@@ -273,9 +272,9 @@ To be continued …
 
 
 
-#Chapter 3
+# Chapter 3
 
-#ThE MYSTERY UNDERNEATH
+# The MYSTERY UNDERNEATH
 
 
 
@@ -363,9 +362,9 @@ To be continued …
 
 
 
-#Chapter 4
+# Chapter 4
 
-#ThE team
+# The team
 
 
 
@@ -542,9 +541,9 @@ Hello I am Avina. An AI designed by Jin Bamba. I am here to show you the way to 
 
 
 
-#Chapter 5
+# Chapter 5
 
-#ThE first trial
+# The first trial
 
 
 
@@ -700,9 +699,9 @@ To be continued …
 
 
 
-#Chapter 6
+# Chapter 6
 
-#The Coliseum
+# The Coliseum
 
 
 
@@ -808,9 +807,9 @@ To be continued …
 
 
 
-#Chapter 6.5
+# Chapter 6.5
 
-#Recap
+# Recap
 
 
 
