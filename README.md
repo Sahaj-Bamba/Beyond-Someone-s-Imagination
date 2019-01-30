@@ -1,4 +1,4 @@
-# Beyond-Someone-s-Imagination
+# Beyond Someone's Imagination
 
 A story about a filthy rich royal kid Sahaj Bamba whose life turned upside down when on his 15th birthday he lost his entire family in an accident.
 
